@@ -1,0 +1,101 @@
+{
+	"languageName": "Pro English",
+	"translatedLanguageName": "premium english",
+	"flag": "🌐",
+	"author": "daniel11",
+
+	"stringKeys": {
+		"kGeneric_CollabVM": "Collaborative Virtual Machine",
+		"kGeneric_Yes": "Affirmative",
+		"kGeneric_No": "Negative",
+		"kGeneric_Ok": "Okay",
+		"kGeneric_Cancel": "Abort",
+		"kGeneric_Send": "Transmit",
+		"kGeneric_Understood": "Comprehended",
+		"kGeneric_Username": "Username",
+		"kGeneric_Password": "Passphrase",
+		"kGeneric_Login": "Sign in",
+		"kGeneric_Register": "Enroll",
+		"kGeneric_EMail": "Email",
+		"kGeneric_DateOfBirth": "Date of Birth",
+		"kGeneric_VerificationCode": "Authentication Key",
+		"kGeneric_Verify": "Authenticate",
+		"kGeneric_Update": "Update",
+		"kGeneric_Logout": "Sign out",
+		
+		"kWelcomeModal_Header": "Greetings and salutations to CollabVM",
+		"kWelcomeModal_Body": "<p>Before proceeding, kindly take a moment to acquaint yourself with our guidelines:</p> <h3>R1. Uphold the law with integrity.</h3> Refrain from utilizing CollabVM or its network to contravene any United States federal laws, New York state statutes, or international regulations. Should CollabVM detect any criminal activities conducted via its services, you will face an immediate ban, and your actions may be duly reported to the relevant authorities if deemed necessary.<br><br>CollabVM is legally obligated to inform law enforcement authorities upon discovering any instances of child pornography on, or transmitted via its network.<br><br>The Children's Online Privacy Protection Act (COPPA) is in effect; please refrain from utilizing CollabVM if you are under the age of 13. <h3>R2. Prohibition against executing DoS/DDoS tools.</h3> Refrain from employing CollabVM to conduct DoS or DDoS attacks against any individual, business, corporation, or entity. <h3>R3. No unsolicited distribution.</h3> Refrain from sending unsolicited emails through this service or disseminating spam in any form. <h3>R4. Refrain from misusing any vulnerabilities.</h3> Please refrain from exploiting any vulnerabilities. Should you observe someone misusing exploits or need to report an incident, do not hesitate to reach out to me at: computernewbab@gmail.com <h3>R5. Refrain from impersonating other users.</h3> Refrain from impersonating fellow members of CollabVM. Violation of this rule may result in a temporary disconnection, or a ban if deemed necessary. <h3>R6. Each individual is entitled to a single vote.</h3> Refrain from employing any means or instruments to circumvent the voting restriction. Each individual is permitted a single vote, irrespective of the circumstances. Anyone found violating this rule will face a ban. <h3>R7. No Tools for Remote Administration.</h3> Refrain from utilizing any remote administration tools, such as DarkComet, NanoCore, Anydesk, TeamViewer, Orcus, among others. <h3>R8. No circumvention of CollabNet allowed.</h3> Refrain from seeking to circumvent the restrictions imposed by CollabNet, particularly if such actions infringe upon Rule 1, Rule 2, or Rule 7 (or engage in trivial, overused practices). <h3>R9. Refrain from engaging in incessantly detrimental behaviors.</h3> No user is permitted to dismantle the VM, thereby rendering it perpetually inoperative, install or reinstall the operating system (except on VM7 or VM8), or deploy bots that engage in such activities. This prohibition extends to bots that inundate the system with excessive keyboard and mouse inputs, commonly referred to as 'kitting.' <h3>R10. No Cryptocurrency Mining.</h3> Engaging in cryptocurrency mining on the virtual machines will lead to an immediate expulsion, followed by a permanent ban for any further attempts. Furthermore, the likelihood of generating profit from such activities is exceedingly low. <h3>Explicit Content Advisory: Kindly be advised that NSFW content is permitted on our anarchy VM (VM0b0t) and is frequently accessed. Additionally, while we strive to exclude NSFW material from the main VMs, there are instances where it may inadvertently be included.",
+
+		"kSiteButtons_Home": "Residence",
+		"kSiteButtons_FAQ": "Frequently Asked Questions",
+		"kSiteButtons_Rules": "Guidelines",
+		"kSiteButtons_DarkMode": "Night Mode",
+		"kSiteButtons_LightMode": "Illumination Mode",
+		"kSiteButtons_Languages": "Linguistic Disciplines",
+
+		"kVM_UsersOnlineText": "Active Users:",
+
+		"kVM_TurnTimeTimer": "Your turn will expire in {0} seconds.",
+		"kVM_WaitingTurnTimer": "Anticipating your turn in {0} seconds.",
+		"kVM_VoteCooldownTimer": "Kindly allow {0} seconds to elapse before initiating another vote.",
+
+		"kVM_VoteForResetTitle": "Would you like to initiate a reset of the virtual machine?",
+		"kVM_VoteForResetTimer": "Voting concludes in {0} seconds.",
+
+		"kVMButtons_TakeTurn": "Take Turn",
+		"kVMButtons_EndTurn": "Conclude Turn",
+		"kVMButtons_ChangeUsername": "Modify Username",
+		"kVMButtons_Keyboard": "Keyboard",
+		"KVMButtons_CtrlAltDel": "Control + Alt + Delete",
+
+		"kVMButtons_VoteForReset": "Vote For Reset",
+		"kVMButtons_Screenshot": "Screenshot",
+
+		"kQEMUMonitor": "QEMU Monitor",
+		"kAdminVMButtons_PassVote": "Pass Vote",
+		"kAdminVMButtons_CancelVote": "Cancel Vote",
+
+		"kAdminVMButtons_Restore": "Restore",
+		"kAdminVMButtons_Reboot": "Reboot",
+		"kAdminVMButtons_ClearTurnQueue": "Clear Turn Queue",
+		"kAdminVMButtons_BypassTurn": "Bypass Turn",
+		"kAdminVMButtons_IndefiniteTurn": "Indefinite Turn",
+		"kAdminVMButtons_GhostTurnOn": "Ghost Turn (On)",
+		"kAdminVMButtons_GhostTurnOff": "Ghost Turn (Off)",
+
+		"kAdminVMButtons_Ban": "Ban",
+		"kAdminVMButtons_Kick": "Kick",
+		"kAdminVMButtons_TempMute": "Temporary Mute",
+		"kAdminVMButtons_IndefMute": "Indefinite Mute",
+		"kAdminVMButtons_Unmute": "Unmute",
+		"kAdminVMButtons_GetIP": "Get IP",
+
+		"kVMPrompts_AdminChangeUsernamePrompt": "Enter new username for {0}:",
+		"kVMPrompts_AdminRestoreVMPrompt": "Are you sure you want to restore the VM?",
+		"kVMPrompts_EnterNewUsernamePrompt": "Enter a new username, or leave the field blank to be assigned a guest username",
+
+		"kError_UnexpectedDisconnection": "You have been disconnected from the server.",
+		"kError_UsernameTaken": "That username is already taken",
+		"kError_UsernameInvalid": "Usernames can contain only numbers, letters, spaces, dashes, underscores, and dots, and it must be between 3 and 20 characters.",
+		"kError_UsernameBlacklisted": "That username has been blacklisted.",
+		"kError_IncorrectPassword": "Incorrect password.",
+
+		"kAccountModal_Verify": "Verify E-Mail",
+		"kAccountModal_AccountSettings": "Account Settings",
+		"kAccountModal_ResetPassword": "Reset Password",
+
+		"kAccountModal_NewPassword": "New Password",
+		"kAccountModal_ConfirmNewPassword": "Confirm New Password",
+		"kAccountModal_CurrentPassword": "Current Password",
+		"kAccountModal_ConfirmPassword": "Confirm Password",
+		"kAccountModal_HideFlag": "Hide my Country Flag",
+
+		"kMissingCaptcha": "Please fill out the captcha.",
+		"kPasswordsMustMatch": "Passwords must match.",
+		"kAccountModal_VerifyText": "We sent an E-Mail to {0}. To verify your account, please enter the 8-digit code from the E-Mail below.",
+		"kAccountModal_VerifyPasswordResetText": "We sent an E-Mail to {0}. To reset your password, please enter the 8-digit code from the E-Mail below.",
+		"kAccountModal_PasswordResetSuccess": "Your password has been changed successfully. You can now log in with your new password.",
+
+		"kNotLoggedIn": "Not Logged in"
+	}
+}
